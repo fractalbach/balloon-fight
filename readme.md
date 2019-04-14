@@ -1,5 +1,3 @@
-# Balloon Fight Game
+# Balloon Game
 
-Fight people while flying around on balloons!
-WebGL Build. 
-Made with Unity.
+WebGL Build for the Balloon Game.
