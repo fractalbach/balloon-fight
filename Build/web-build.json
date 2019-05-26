@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "balloonz",
+"companyName": "Achenbach Games",
+"productName": "Balloon Jump",
 "dataUrl": "web-build.data.unityweb",
 "wasmCodeUrl": "web-build.wasm.code.unityweb",
 "wasmFrameworkUrl": "web-build.wasm.framework.unityweb",
